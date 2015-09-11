@@ -1,0 +1,22 @@
+- href: /page/timing.html
+  icon: fa fa-clock-o
+  title: 时光
+
+- href: /page/category.html
+  icon: fa fa-tags
+  title: 分类
+
+- href: /page/read.html
+  icon:  fa fa-book
+  title: 阅读
+
+# icon: fa fa-eyedropper
+# newblank: true
+- href: /page/resource.html
+  icon: fa fa-archive
+  title: 收藏
+  newblank: fasle
+
+- href: /page/about.html
+  icon: fa fa-graduation-cap
+  title: 简介

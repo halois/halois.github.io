@@ -1,0 +1,11 @@
+
+name: Github
+icon: fa fa-github-alt
+members:
+  - name: halois
+    notnewblank: false
+    link: http://github.com/halois
+
+  - name: My Blog
+    notnewblank: true
+    link: http://halois.github.io/
