@@ -3,19 +3,24 @@ name: 软件
 icon: fa fa-windows
 members:
   - name: LaTeX
+    link:
+
+  - name: Sublime Text (windows & Mac)
     link: 
 
-# - name: Sublime Text
-# link: 
+  - name: Total Commander (for windows)
+    link: 
 
-# - name: Total Commander
-#     link: 
+  - name: Listary (for windows)
+    link: 
 
-# - name: Wiz
-#     link: 
-# - name: Everything
-#     link: 
-# - name: Zotero
-#     link: 
+  - name: Wiz 
+    link: 
+
+  - name: Everything (for windows)
+    link: 
+
+  - name: Zotero
+    link: 
 
 
