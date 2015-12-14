@@ -5,7 +5,7 @@ members:
   - name: K-theory Preprint Archives
     link: http://www.math.uiuc.edu/K-theory/
 
-  - name: Front for the arXiv
+  - name: Front for the arXiv (UC Davis front end)
   	link: http://front.math.ucdavis.edu/
 
   - name: math.stackexchange
@@ -16,3 +16,22 @@ members:
 
   - name: stackprinter
     link: http://www.stackprinter.com/
+
+  - name: Mathematics Genealogy Project
+    link: http://www.genealogy.math.ndsu.nodak.edu/index.php
+
+  - name: MathSciNet (Math Reviews)
+    link: http://ams.mathematik.uni-bielefeld.de/mathscinet/
+    # http://ams.mpim-bonn.mpg.de/mathscinet/search
+
+  - name: Zentralblatt MATH
+    link: http://www.emis.de/ZMATH/
+
+  - name: American Mathematical Society
+    link: http://www.ams.org/
+
+  - name: European Mathematical Society
+    link: http://www.euro-math-soc.eu/
+
+  - name: Topology Atlas
+    link: http://at.yorku.ca/topology/
