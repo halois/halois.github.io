@@ -15,7 +15,9 @@ members:
 
   - name: Wiz
     link: 
-- name: Everything
-    link: 
-- name: Zotero
+    
+  - name: Everything
+    link:
+    
+  - name: Zotero
     link: 
