@@ -12,15 +12,12 @@ members:
     link: 
 
   - name: Listary (for windows)
-    link: 
 
-  - name: Wiz 
+  - name: Wiz
     link: 
-
-  - name: Everything (for windows)
+- name: Everything
     link: 
-
-  - name: Zotero
+- name: Zotero
     link: 
 
 
