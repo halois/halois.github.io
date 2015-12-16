@@ -7,13 +7,13 @@ members:
 
   - name: Front for the arXiv
     link: http://front.math.ucdavis.edu/
-    
+
   - name: math.stackexchange
     link: http://math.stackexchange.com/
 
   - name: Mathoverflow
     link: http://mathoverflow.net/
-    
+
   - name: stackprinter
     link: http://www.stackprinter.com/
 
