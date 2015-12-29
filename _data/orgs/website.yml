@@ -6,7 +6,7 @@ members:
     link: http://www.math.uiuc.edu/K-theory/
 
   - name: Front for the arXiv (UC Davis front end)
-  	link: http://front.math.ucdavis.edu/
+    link: http://front.math.ucdavis.edu/
 
   - name: math.stackexchange
     link: http://math.stackexchange.com/
