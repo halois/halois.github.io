@@ -5,9 +5,6 @@ members:
   - name: 邮箱登录
     link: https://mail.cstnet.cn/
 
-  # - name: RGB颜色查询对照表
-  #   link: http://www.114la.com/other/rgb.htm
-
   - name: Font Awesome
     link: http://fontawesome.io/ 
 
@@ -16,9 +13,6 @@ members:
 
   - name: 图片素材
     link: https://pixabay.com/
-
+    
   - name: pocket
     link:
-
-  # - name: emoji
-  #   link: http://emoji.muan.co/
