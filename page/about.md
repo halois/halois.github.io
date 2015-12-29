@@ -26,17 +26,23 @@ blockquote p {
 
  <hr id="line"/> 
 > mosbic: 壬申年丙午月庚午日出生。<br />
-> Email: [haloiszhang@hotmail.com](mailto:haloiszhang@hotmail.com)  <br />
+> Email: [qqmail](mailto:guyuncanjian@qq.com)  <br />
 <!-- > 微博: [@mosbic](http://weibo.com/mosbic)<br /> -->
-> 博客: [halois](http://halois.github.io/) <br />
+> 博客: [就是这里](http://halois.github.io/) <br />
 > GitHub: [halois](https://github.com/halois)  <br />
 > 知乎: [mosbic](http://www.zhihu.com/people/mosbic) <br /> 
-<!-- > 科研主页: [hzhang](http://www.escience.cn/people/hzhang/index.html) -->
+> 微信公众号: 一只寻找函子的猫
+<!-- > 科研主页: [hzhang](http://www.escience.cn/people/hzhang/index.html)
+个人微信: -->
 
 ---
 
 > **欢迎来访**: <br />
-> 现在求学于某科大某学专业，从事某理论的研(hun)究(rizi)。这里主要存放一些学习过程中的想法、总结，以及一些乱七八糟的琐事。所有的所有万万不能当真，如有雷同，那就是抄的。
+> 2009年－2013年 求学于天津
+> 
+> 2013年－今 求学于北京 某科大某学专业，从事某理论的研(hun)究(rizi)。
+
+这里主要存放一些学习过程中的想法、总结，以及一些乱七八糟的琐事。所有的所有万万不能当真，如有雷同，那就是抄的。
 
 
 

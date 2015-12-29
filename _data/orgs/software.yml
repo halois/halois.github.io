@@ -5,22 +5,19 @@ members:
   - name: LaTeX
     link:
 
-  - name: Sublime Text (windows & Mac)
+  - name: Sublime Text (windows and Mac)
     link: 
 
   - name: Total Commander (for windows)
     link: 
 
   - name: Listary (for windows)
+
+  - name: Wiz
     link: 
 
-  - name: Wiz 
-    link: 
-
-  - name: Everything (for windows)
-    link: 
+  - name: Everything
+    link:
 
   - name: Zotero
     link: 
-
-
