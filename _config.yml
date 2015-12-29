@@ -29,7 +29,7 @@ blog:
 author:
     name: Mosbic                                          # 作者名称
     email: 529666596@qq.com                                # 邮箱地址
-    weibo: http://weibo.cn/mosbic                        # 微博地址
+    weibo: http://weibo.com/mosbic                        # 微博地址
     github: https://github.com/halois                     # GitHub地址
     logo: /res/img/icon.jpg                              # logo地址
     douban:
