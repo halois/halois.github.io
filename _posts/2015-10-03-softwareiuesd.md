@@ -27,18 +27,57 @@ math: true
 
 接下来记录一些mac上经常使用的软件
 
-- alfred 2 这个当然放在第一位，可以替代spotlight，另外添加workflow之后，可以大大提升效率。比如快速打开网址，百度搜索，google搜索，还可以自己添加搜索，比如我自己添加了mathoverflow的搜索，springer link，libgen等学术搜索网站的快捷搜索。另外还有一些天气查看，douban插件和种子搜索等等。另外还限免购入一款MarkdownD
-- mou 写作文字类的文章时使用，比如现在这一篇，通过配置字体和输出css可以方便快捷的即时浏览，比如我使用了github2的css，显示效果还是很棒的。
-- onenote 这是做笔记的软件，另外还常用的事wiz，但是evernote已经放弃使用。
-- ulysses III，刚刚开始使用这款写作软件。之前使用过scrivener,觉得不是很轻巧，平时我也不会写剧本，写小说的计划暂时还没有，写论文或者其他学术型相关的用LaTeX就好，后来看到了这款比较小巧的软件，可以考虑要写的一些非专业的东西，比如整理wiz里的内容等可以用它来管理和写作，期待它。
-- sublime text3 不多说了，和windows上一样。其中添加了一些插件package control，LaTeXTools, plaintask等，其中plaintask在mac上显示效果更好一点
-- github 同步文档，用jekyll来发布githubpage，也就是这个个人主页。
-- skim 看pdf文档。同类型软件有限免购入的PDF Reader。另外有看djvu的djvu reader
-- ominifocus 还未开始使用。
+- Alfred 2 这个当然放在第一位，可以替代spotlight，另外添加workflow之后，可以大大提升效率。比如快速打开网址，百度搜索，google搜索，还可以自己添加搜索，比如我自己添加了mathoverflow的搜索，springer link，libgen等学术搜索网站的快捷搜索。另外还有一些天气查看，douban插件和种子搜索等等。另外还限免购入一款MarkdownD
+- Mou 写作文字类的文章时使用，比如现在这一篇，通过配置字体和输出css可以方便快捷的即时浏览，比如我使用了github2的css，显示效果还是很棒的。
+- Onenote 这是做笔记的软件，另外还常用的事wiz，但是evernote已经放弃使用。
+- Ulysses III，刚刚开始使用这款写作软件。之前使用过scrivener,觉得不是很轻巧，平时我也不会写剧本，写小说的计划暂时还没有，写论文或者其他学术型相关的用LaTeX就好，后来看到了这款比较小巧的软件，可以考虑要写的一些非专业的东西，比如整理wiz里的内容等可以用它来管理和写作，期待它。
+- Sublime text3 不多说了，和windows上一样。其中添加了一些插件package control，LaTeXTools, plaintask等，其中plaintask在mac上显示效果更好一点
+- Github 同步文档，用jekyll来发布githubpage，也就是这个个人主页。
+- Skim 看pdf文档。同类型软件有限免购入的PDF Reader。另外有看djvu的djvu reader
+- Ominifocus 还未开始使用。
 - bearychat 暂时没有团队来做这个，网页端的协作app还用tower
 - 其他一些 utorrent 上六维用，keka 打开rar等压缩文件用, zotero和windows同步参考文献，网易云音乐听歌，tex的mac版，qq wechat，keynote做幻灯片（看了许岑的视频后开始使用），cheatsheet看快捷键
+
+---
+将上面的软件列表如下
+
+|类型 | 名称      | 说明        |使用频率|操作系统|
+|:----:|:----:|:----:|:----:|:----:|
+|系统工具|Total Commander|主要文件管理器|高|windows|
+|系统工具|Everything|查找文件|高|windows|
+|系统工具|Wox|快速启动|中|windows|
+|系统工具|Listary|TC集成，定位|高|windows|
+|系统工具|turbolaunch|快速启动|中|windows|
+|系统工具|Alfred2|workflow，不只是快速启动|高|Mac OS|
+|剪贴板|Ditto|管理剪贴板|中|windows|
+|下载 | utorrent  | 下载六维资源  |高|windows, Mac OS|
+|下载|迅雷|下载其它资源|中|windows|
+|播放器|网易云音乐|听在线歌曲|高|windows, Mac OS, Android|
+|播放器|potplayer|看视频神器|高|windows|
+|图片|IrfanView|可与TC集成|中|windows|
+|浏览器|Chrome|默认|高|windows|
+|浏览器|Safari|默认|高|Mac OS|
+|阅读器|Foxit Reader|PDF默认阅读器|高|windows|
+|阅读器|SunatraPDF|预览，LaTeX编译使用|高|windows|
+|阅读器|DjVuLibre|djvu文件|中|windows|
+|阅读器|skim|预览|中|Mac OS|
+|编辑器|notepad++|偶尔使用来处理文本|低|windows|
+|编辑器|Sublime Text 3|编辑tex,py等文件|高|windows, Mac OS|
+|编辑器|MarkdownPad 2|编辑md文件|高|windows|
+|编辑器|Mou|markdown编辑器|中|Mac OS|
+|笔记|Wiz|为知笔记|高|windos, Mac OS, Android|
+|笔记|Onenote| |中|Mac OS|
+|笔记|Ulysses III|写作markdown|中|Mac OS|
+|排版|Tex Live 2015|编辑笔记|高|windows|
+|排版|pandoc|格式转换|低|windows|
+|文献管理|Jabref|bib管理|低|windows|
+|文献管理|Zotero|管理论文，云同步|中|windows, Mac OS|
+|版本控制|Github|同步|中|windows, Mac OS|
+|编程|python|2.7 & 3.5|低|全平台|
+|编程|ruby|2.2.2|低|windows|
 
 
 下次再把常用的手机端软件和常用的网站整理一下。
 
-**2015.12.18 12:00更新**
+- **2015.12.18 12:00更新**
+- **2016.01.07 21:07更新 表格**
