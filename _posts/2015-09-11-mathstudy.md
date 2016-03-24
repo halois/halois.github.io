@@ -1,5 +1,6 @@
 ---
 layout : post
+published : false
 title : "我的数学学习 — 大学篇"
 category : 回忆录
 date : 2014-12-01
