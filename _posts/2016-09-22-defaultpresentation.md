@@ -2,21 +2,25 @@
 layout: presentation
 title: Default Presentation
 ---
+class: center, middle, inverse
 
-# My Awesome Presentation
+.title[Hello *Remark*]     
+.subtitle[使用 *Remark* 做演示文稿]  
+&nbsp;  
+&nbsp;
+&nbsp;              
+&nbsp;              
+&nbsp;              
+.author[[{Mosbic}](http://halois.github.io/)]  
+&nbsp;          
+&nbsp;          
+&nbsp;          
+    
+.footnote[Created with [{Remark.js}](http://remarkjs.com/) using [{Markdown}](https://daringfireball.net/projects/markdown/) +  [{MathJax}](https://www.mathjax.org/)] 
 
 ---
-
-# Agenda
-
-1. Introduction
-2. Deep-dive
-3. ...
-
-[NOTE]: Note that you need active internet connection to access remark.js script file
-
----
-
-# Introduction
-
-Hello world!
+class: center
+# 这是第一页
+测试！
+--
+测试！
