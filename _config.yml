@@ -18,20 +18,22 @@ shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shTheme
 #SyntaxHihglighter config end
 
 blog:
-    name: Mosbic                                          # 博客名称
-    description: 远离颠倒梦想      # 博客描述
-    title: Mosbic's blog                                         # 网页标题
-    url: http://halois.github.io/                         # 博客地址
-    duoshuo: mosbic                                       # 多说ID 
-    # tongji:              # 百度统计ID
-    # clickiTongJi: 					 # Clicki统计ID
-    # qiniu:                                               # 七牛云地址
+    name: Mosbic                                       # 博客名称
+    description: 远离颠倒梦想                          # 博客描述
+    title: Mosbic's blog                               # 网页标题
+    url: http://halois.github.io/                      # 博客地址
+    duoshuo: mosbic                                    # 多说ID 
+    # tongji:                                          # 百度统计ID
+    # clickiTongJi: 					               # Clicki统计ID
+    # qiniu:                                           # 七牛云地址
 author:
-    name: Mosbic                                          # 作者名称
-    email: 529666596@qq.com                                # 邮箱地址
-    weibo: http://weibo.com/mosbic                        # 微博地址
-    github: https://github.com/halois                     # GitHub地址
-    logo: /res/img/icon.jpg                              # logo地址
+    name: Mosbic                                       # 作者名称
+    email: 529666596@qq.com                            # 邮箱地址
+    weibo: http://weibo.com/mosbic                     # 微博地址
+    github: https://github.com/halois                  # GitHub地址
+    logo: /res/img/icon.jpg                            # logo地址
     douban:
-        name: mantun                                    # 豆瓣地址名称
-        key: 07f71ba9d7a6302817e552fd86f29078                                            # 豆瓣API Key
+        name: mantun                                   # 豆瓣地址名称
+        key: 07f71ba9d7a6302817e552fd86f29078          # 豆瓣API Key
+gems:
+  - jekyll-redirect-from
